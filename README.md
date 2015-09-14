@@ -2,9 +2,9 @@
 
   StraTHACO is an web application to create multiples storylines in tabletop games linked to players background.
 
-  StraTHACO implement the notion of THACO as defined by [Xyrop](https://github.com/Xyrop) in [Strategic Gamemastering, part 2: Data organization and exploitation through the THACO](http://blog.xyrop.com/post/2014/08/29/Strategic-Gamemastering-part-2).
+  StraTHACO implement the notion of THACO as defined by [Xyrop](https://github.com/Xyrop) in [Strategic Gamemastering, part 2: Data organization and exploitation through the THACO](http://blog.xyrop.com/post/2014/08/29/Strategic-Gamemastering-part-2):
 
->  ### The Thematic Holistic Analytic Character Outline (THACO)
+> ### The Thematic Holistic Analytic Character Outline (THACO)
 > source  
 > THACO stands for Thematic Holistic Analytic Character Outline, also known as Table for Historicised Analysis of Character Objects.
 The THACO is a graphical tool, a table/grid which aims at providing a systematic overview of all data gathered during the first phase, organized in rows and columns.
